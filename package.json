@@ -1,5 +1,5 @@
 {
-  "name": "vue3-carousel",
+  "name": "@pkubik11/vue3-carousel",
   "version": "0.1.8",
   "scripts": {
     "build": "rollup -c",
@@ -30,5 +30,19 @@
     "last 2 versions",
     "not dead"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "description": "Modern lightweight Vue 3 carousel component",
+  "directories": {
+    "doc": "docs",
+    "example": "examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkubik11/vue3-carousel.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/pkubik11/vue3-carousel/issues"
+  },
+  "homepage": "https://github.com/pkubik11/vue3-carousel#readme"
 }
