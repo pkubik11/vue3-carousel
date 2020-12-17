@@ -5,11 +5,13 @@
 }
 .carousel__pagination-button {
   margin: 5px;
-  width: 10px;
-  height: 5px;
-  border: 0;
+  width: 12px;
+	height: 12px;
+	border: 1px solid;
+  border-radius: 50%;
   cursor: pointer;
-  background-color: #8e98f3;
+	background-color: transparent;
+	
 }
 
 .carousel__pagination-button--active {
